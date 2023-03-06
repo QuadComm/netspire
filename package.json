@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/QuadComm/netspire/issues"
   },
-  "homepage": "https://github.com/QuadComm/netspire#readme"
+  "homepage": "https://github.com/QuadComm/netspire#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
